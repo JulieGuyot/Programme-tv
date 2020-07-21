@@ -37,6 +37,11 @@
   font-weight: 700;
 }
 
+.titre:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .troisderniers {
   display: flex;
   line-height: normal;
